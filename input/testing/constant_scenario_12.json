@@ -1,0 +1,1 @@
+{"departure_times":[null,27,13,null,null,null,13,4],"arrival_times":[10,null,null,20,6,23,null,null],"num_requests":8,"loads":[3,4,1,1,5,5,2,5],"instance_name":"constant","origins":[1,1,2,2,4,4,4,5],"destinations":[2,6,3,3,2,5,5,7]}

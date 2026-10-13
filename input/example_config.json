@@ -1,0 +1,11 @@
+{"output_directory":"example/",
+"number_of_vehicles":15,
+"path_to_od_matrix":"demand_constant.txt",
+"path_to_distance_matrix":"example_distances.txt",
+"max_waiting_time":15,
+"maximum_time":60,
+"instance_name":"example",
+"number_of_stations":7,
+"capacity":8,
+"max_ride_time_factor":3.0
+}
